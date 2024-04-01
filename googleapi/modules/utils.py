@@ -12,7 +12,7 @@ import urllib.request
 import urllib.error
 import urllib.parse
 from functools import wraps
-# import requests
+import requests
 from urllib.parse import urlencode
 from fake_useragent import UserAgent
 import sys
@@ -428,23 +428,27 @@ def _get_search_url(query, page=0, per_page=10, lang='en', area='com', ncr=False
     return url
 
 
-def get_html(url):
+def get_html(url, google=True, time_dur=0):
     ua = UserAgent()
     header = ua.random
+    if google:
+        time_dur = int(max(15, 65 - time_dur))
+        print('time consuming:', time_dur)
+        time_dur //= 3
+        time.sleep(time_dur)
 
     try:
         request = urllib.request.Request(url)
         request.add_header("User-Agent", header)
-        html = urllib.request.urlopen(request).read()
+        html = urllib.request.urlopen(request, timeout=10).read()
         return html
     except urllib.error.HTTPError as e:
         print("Error accessing:", url)
         print(e)
-        if e.code == 503 and 'CaptchaRedirect' in e.read():
-            print("Google is requiring a Captcha. "
-                  "For more information check: 'https://support.google.com/websearch/answer/86640'")
         if e.code == 503:
-            sys.exit("503 Error: service is currently unavailable. Program will exit.")
+            print("503 Error: service is currently unavailable. Program will exit.")
+        if google and e.code == 429:
+            sys.exit()
         return None
     except Exception as e:
         print("Error accessing:", url)

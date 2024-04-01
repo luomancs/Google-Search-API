@@ -1,0 +1,2670 @@
+  0%|          | 0/1000 [00:00<?, ?it/s]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  0%|          | 1/1000 [07:59<132:59:55, 479.28s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  0%|          | 2/1000 [15:16<129:23:27, 466.74s/it]  0%|          | 3/1000 [21:42<122:34:02, 442.57s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  0%|          | 4/1000 [28:59<121:58:58, 440.90s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+1000
+ques: 3000
+pred: 0
+time consuming: 64
+time consuming: 64
+time consuming: 64
+False
+What country is this airplane from? canada
+pred: 1
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What country is this airplane from? england
+pred: 2
+time consuming: 36
+time consuming: 36
+time consuming: 36
+What country is this airplane from? america
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 17
+time consuming: 17
+time consuming: 17
+What country is this airplane from? franc
+pred: 4
+time consuming: 37
+False
+time consuming: 37
+False
+time consuming: 37
+False
+What country is this airplane from? unit state
+pred: 5
+time consuming: 16
+False
+time consuming: 16
+False
+time consuming: 16
+What country is this airplane from? usa
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/aircraft_nnumber_history/
+The read operation timed out
+pred: 6
+time consuming: 18
+time consuming: 18
+time consuming: 18
+False
+What country is this airplane from? germani
+Error accessing: https://www.lufthansa.com/us/en/flight-information
+HTTP Error 403: Forbidden
+pred: 7
+time consuming: 31
+time consuming: 31
+time consuming: 31
+False
+What country is this airplane from? japan
+Error accessing: https://www.jal.co.jp/jp/en/info/2020/other/flysafe/flights-service/quarantine-immigration/
+The read operation timed out
+Error accessing: https://www.ana.co.jp/en/jp/topics/coronavirus-travel-information/immigration/
+The read operation timed out
+Error accessing: https://www.ana.co.jp/en/us/
+The read operation timed out
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What country is this airplane from? ireland
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 34
+False
+time consuming: 34
+time consuming: 34
+False
+What country is this airplane from? australia
+ques: 3001
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What type of parade is this? parad
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.macys.com/social/parade/
+HTTP Error 302: Moved Temporarily
+pred: 1
+time consuming: 33
+time consuming: 33
+time consuming: 33
+What type of parade is this? funer
+Error accessing: https://www.jstor.org/stable/3094934
+HTTP Error 403: Forbidden
+pred: 2
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What type of parade is this? ralli
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 31
+time consuming: 31
+time consuming: 31
+What type of parade is this? mardi gras
+pred: 4
+time consuming: 16
+time consuming: 16
+time consuming: 16
+What type of parade is this? gay pride
+pred: 5
+time consuming: 38
+time consuming: 38
+time consuming: 38
+What type of parade is this? summer
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.farmersalmanac.com/parades-35497
+HTTP Error 404: Not Found
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+What type of parade is this? fair
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What type of parade is this? christma
+pred: 8
+time consuming: 34
+time consuming: 34
+time consuming: 34
+What type of parade is this? carniv
+pred: 9
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What type of parade is this? festiv
+Error accessing: https://www.bizbash.com/production-strategy/media-gallery/21089099/us-festivals-parades-holiday-events-2019
+HTTP Error 403: Forbidden
+Error accessing: None
+unknown url type: 'None'
+ques: 3002
+pred: 0
+time consuming: 28
+time consuming: 28
+time consuming: 28
+What keeps things cold? microwav
+pred: 1
+time consuming: 20
+time consuming: 20
+time consuming: 20
+What keeps things cold? fan
+pred: 2
+time consuming: 37
+time consuming: 37
+time consuming: 37
+What keeps things cold? refriger
+pred: 3
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What keeps things cold? dishwash
+pred: 4
+time consuming: 40
+time consuming: 40
+time consuming: 40
+What keeps things cold? fridg
+pred: 5
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What keeps things cold? refridger
+pred: 6
+time consuming: 41
+time consuming: 41
+time consuming: 41
+What keeps things cold? dish
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What keeps things cold? cloth dryer
+pred: 8
+time consuming: 36
+time consuming: 36
+time consuming: 36
+What keeps things cold? towel
+Error accessing: https://iceman.com.sg/2017/02/19/3-ways-to-keep-ice-from-melting/
+<urlopen error [Errno 104] Connection reset by peer>
+pred: 9
+time consuming: 19
+time consuming: 19
+time consuming: 19
+False
+What keeps things cold? stove
+ques: 3003
+pred: 0
+time consuming: 27
+time consuming: 27
+time consuming: 27
+Can you name the place where these sport is played? park
+pred: 1
+time consuming: 22
+time consuming: 22
+time consuming: 22
+Can you name the place where these sport is played? field
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 30
+time consuming: 30
+time consuming: 30
+Can you name the place where these sport is played? stadium
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+False
+Can you name the place where these sport is played? basebal field
+pred: 4
+time consuming: 39
+time consuming: 39
+time consuming: 39
+Can you name the place where these sport is played? skate park
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Can you name the place where these sport is played? basebal
+pred: 6
+time consuming: 28
+time consuming: 28
+time consuming: 28
+Can you name the place where these sport is played? tenni court
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.masterclass.com/articles/types-of-tennis-courts
+HTTP Error 403: Forbidden
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Can you name the place where these sport is played? basebal stadium
+Error accessing: https://www.mlb.com/news/how-baseball-teams-are-making-fan-cutouts-work
+The read operation timed out
+Error accessing: https://www.mlb.com/spring-training/ballparks
+The read operation timed out
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.choicehotels.com/explore/baseball/americas-oldest-stadiums
+The read operation timed out
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Can you name the place where these sport is played? frisbe
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 40
+time consuming: 40
+time consuming: 40
+Can you name the place where these sport is played? court
+Error accessing: https://www.espressoenglish.net/english-vocabulary-words-sports-locations/
+Remote end closed connection without response
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+ques: 3004
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who is top player in this sport? babe ruth
+pred: 1
+time consuming: 29
+time consuming: 29
+time consuming: 29
+Who is top player in this sport? basebal player
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 20
+time consuming: 20
+time consuming: 20
+False
+Who is top player in this sport? derek jeter
+pred: 3
+time consuming: 35
+time consuming: 35
+time consuming: 35
+Who is top player in this sport? jacki robinson
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who is top player in this sport? umpir
+pred: 5
+time consuming: 31
+time consuming: 31
+False
+time consuming:  0%|          | 5/1000 [36:15<121:25:35, 439.33s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|          | 6/1000 [45:19<129:57:46, 470.69s/it]  1%|          | 7/1000 [52:41<127:28:52, 462.17s/it] 31
+False
+Who is top player in this sport? someon
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who is top player in this sport? ty cobb
+pred: 7
+time consuming: 33
+time consuming: 33
+time consuming: 33
+Who is top player in this sport? abner doubleday
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 22
+False
+time consuming: 22
+time consuming: 22
+Who is top player in this sport? mose fleetwood walker
+Error accessing: https://www.washingtonpost.com/history/2019/04/15/first-african-american-major-leaguer-wasnt-who-you-think/
+The read operation timed out
+pred: 9
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who is top player in this sport? pete rose
+ques: 3005
+pred: 0
+time consuming: 29
+time consuming: 29
+time consuming: 29
+What kind of tree is in the picture? pine
+pred: 1
+time consuming: 24
+time consuming: 24
+False
+time consuming: 24
+What kind of tree is in the picture? palm
+pred: 2
+time consuming: 30
+time consuming: 30
+False
+time consuming: 30
+What kind of tree is in the picture? coconut
+Error accessing: https://www.hunker.com/13428631/the-difference-between-palm-trees-coconut-trees
+The read operation timed out
+pred: 3
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What kind of tree is in the picture? oak
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What kind of tree is in the picture? palm tree
+pred: 5
+time consuming: 40
+time consuming: 40
+time consuming: 40
+What kind of tree is in the picture? mapl
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 6
+time consuming: 15
+False
+time consuming: 15
+time consuming: 15
+What kind of tree is in the picture? elm
+pred: 7
+time consuming: 38
+time consuming: 38
+False
+time consuming: 38
+What kind of tree is in the picture? fir
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+What kind of tree is in the picture? willow
+pred: 9
+time consuming: 34
+time consuming: 34
+time consuming: 34
+What kind of tree is in the picture? spruce
+ques: 3006
+pred: 0
+time consuming: 24
+False
+time consuming: 24
+False
+time consuming: 24
+What is this cat laying in? bed
+pred: 1
+time consuming: 27
+time consuming: 27
+time consuming: 27
+What is this cat laying in? chair
+pred: 2
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is this cat laying in? pet bed
+pred: 3
+time consuming: 39
+time consuming: 39
+time consuming: 39
+What is this cat laying in? cat bed
+pred: 4
+time consuming: 16
+time consuming: 16
+time consuming: 16
+What is this cat laying in? tabl
+Error accessing: https://www.cuteness.com/article/cat-sleeping-unusual-places-sign-sickness
+The read operation timed out
+Error accessing: https://www.justanswer.com/cat-health/7r1ah-cat-staying-table-sleeping.html
+HTTP Error 503: Service Temporarily Unavailable
+503 Error: service is currently unavailable. Program will exit.
+pred: 5
+time consuming: 23
+time consuming: 23
+time consuming: 23
+What is this cat laying in? purs
+pred: 6
+time consuming: 30
+time consuming: 30
+time consuming: 30
+What is this cat laying in? bowl
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+What is this cat laying in? crib
+pred: 8
+time consuming: 37
+False
+time consuming: 37
+time consuming: 37
+What is this cat laying in? sink
+Error accessing: https://www.cuteness.com/blog/content/why-do-cats-sleep-in-the-sink
+The read operation timed out
+pred: 9
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is this cat laying in? dish
+Error accessing: http://blog.vetdepot.com/why-do-cats-act-like-their-food-bowl-is-empty
+HTTP Error 403: Bad Behavior
+ques: 3007
+pred: 0
+time consuming: 32
+time consuming: 32
+time consuming: 32
+What is this silver appliance? refriger
+Error accessing: https://www.bestbuy.com/site/questions/lg-26-8-cu-ft-side-by-side-instaview-door-in-door-refrigerator-with-ice-maker-platinum-silver/6395337/question/1db9c12d-d5fc-3596-bb9d-65a247bea73c
+The read operation timed out
+Error accessing: https://www.lowes.com/pl/Mini-fridges-Refrigerators-Appliances/290928573
+The read operation timed out
+Error accessing: https://www.apartmenttherapy.com/black-stainless-steel-appliances-scratch-regret-267694
+HTTP Error 403: Forbidden
+Error accessing: https://www.theapplianceloft.com/product/ge-175-cu-ft-silver-steel-top-freezer-refrigerator-gie18gcnrsa-350164
+<urlopen error [Errno -2] Name or service not known>
+Error accessing: http://lewiesappliance.com/products.php?cat=SD&subcat=FRIG
+<urlopen error [Errno 101] Network is unreachable>
+pred: 1
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+What is this silver appliance? oven
+Error accessing: https://www.bestbuy.com/site/questions/lg-26-8-cu-ft-side-by-side-instaview-door-in-door-refrigerator-with-ice-maker-platinum-silver/6395337/question/1db9c12d-d5fc-3596-bb9d-65a247bea73c
+The read operation timed out
+pred: 2
+time consuming: 27
+time consuming: 27
+time consuming: 27
+What is this silver appliance? fridg
+Error accessing: https://www.bestbuy.com/site/shop/silver-fridge
+The read operation timed out
+Error accessing: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat367400050001&id=pcat17071&iht=n&ks=960&list=y&qp=colorcat_facet%3DColor~Silver&sc=Global&st=categoryid%24pcmcat367400050001&type=page&usc=All%20Categories
+The read operation timed out
+Error accessing: https://www.apartmenttherapy.com/black-stainless-steel-appliances-scratch-regret-267694
+HTTP Error 403: Forbidden
+pred: 3
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is this silver appliance? microwav
+Error accessing: https://www.wayfair.com/appliances/sb1/silver-microwaves-c419246-a126508~426515.html
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+Error accessing: https://www.abt.com/GE-Metallic-Silver-Over-The-Range-Microwave-Oven-JNM3161MFSA/p/73094.html
+HTTP Error 503: Service Temporarily Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: https://www.dacor.com/us/products/microwaves
+The read operation timed out
+pred: 4
+time consuming: 17
+time consuming: 17
+time consuming: 17
+What is this silver appliance? refridger
+Error accessing: https://www.bestbuy.com/site/questions/lg-26-8-cu-ft-side-by-side-instaview-door-in-door-refrigerator-with-ice-maker-platinum-silver/6395337/question/1db9c12d-d5fc-3596-bb9d-65a247bea73c
+The read operation timed out
+Error accessing: https://www.wayfair.com/appliances/sb2/black-stainless-silver-refrigerators-c420519-a126507~426491-a126507~456470.html
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+pred: 5
+time consuming: 24
+time consuming: 24
+time consuming: 24
+False
+What is this silver appliance? stove
+pred: 6
+time consuming: 31
+False
+time consuming: 31
+time consuming: 31
+What is this silver appliance? dryer
+Error accessing: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0910000&id=pcat17071&iht=n&ks=960&list=y&qp=colorcat_facet%3DColor~Silver&sc=Global&st=categoryid%24abcat0910000&type=page&usc=All%20Categories
+The read operation timed out
+Error accessing: https://www.lowes.com/pd/Equator-Advanced-Appliances-Vented-Combination-Washer-and-Dryer-Stainless-steel-ENERGY-STAR/5000149345
+The read operation timed out
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is this silver appliance? wash machin
+Error accessing: https://www.bestbuy.com/site/shop/silver-washer
+The read operation timed out
+Error accessing: https://www.wayfair.com/appliances/sb2/black-silver-washing-machines-c420520-a126520~426656-a126520~426660.html
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+pred:  1%|          | 8/1000 [1:02:18<136:47:26, 496.42s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|          | 9/1000 [1:08:41<127:17:24, 462.41s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|          | 10/1000 [1:15:32<122:55:46, 447.02s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|          | 11/1000 [1:23:18<124:25:31, 452.91s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+ 8
+time consuming: 17
+time consuming: 17
+time consuming: 17
+What is this silver appliance? cloth dryer
+Error accessing: https://www.lowes.com/c/Washers-dryers-Appliances
+The read operation timed out
+Error accessing: https://www.bestbuy.com/site/dryers/gas-dryers/pcmcat232900050030.c?id=pcmcat232900050030
+The read operation timed out
+Error accessing: https://www.costco.com/electric-dryers.html
+The read operation timed out
+pred: 9
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is this silver appliance? friger
+Error accessing: https://www.bestbuy.com/site/shop/silver-fridge
+The read operation timed out
+Error accessing: https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat367400050001&id=pcat17071&iht=n&ks=960&list=y&qp=colorcat_facet%3DColor~Silver&sc=Global&st=categoryid%24pcmcat367400050001&type=page&usc=All%20Categories
+The read operation timed out
+Error accessing: https://www.apartmenttherapy.com/black-stainless-steel-appliances-scratch-regret-267694
+HTTP Error 403: Forbidden
+ques: 3008
+pred: 0
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+What's the side dish to the hot dog? french fri
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+pred: 1
+time consuming: 37
+time consuming: 37
+False
+time consuming: 37
+What's the side dish to the hot dog? potato
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+pred: 2
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+False
+What's the side dish to the hot dog? salad
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+pred: 3
+time consuming: 28
+time consuming: 28
+time consuming: 28
+What's the side dish to the hot dog? bread
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+pred: 4
+time consuming: 28
+time consuming: 28
+time consuming: 28
+What's the side dish to the hot dog? fri
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+pred: 5
+time consuming: 22
+time consuming: 22
+time consuming: 22
+What's the side dish to the hot dog? ketchup
+Error accessing: https://cookpad.com/us/recipes/343533-hotdog-and-cabbage-okazu
+HTTP Error 403: Forbidden
+pred: 6
+time consuming: 33
+time consuming: 33
+time consuming: 33
+What's the side dish to the hot dog? tortilla
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What's the side dish to the hot dog? pickl
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+pred: 8
+time consuming: 38
+time consuming: 38
+time consuming: 38
+What's the side dish to the hot dog? hot dog
+pred: 9
+time consuming: 16
+False
+time consuming: 16
+time consuming: 16
+What's the side dish to the hot dog? bun
+Error accessing: https://insanelygoodrecipes.com/what-to-serve-with-hot-dogs/
+HTTP Error 500: Internal Server Error
+ques: 3009
+pred: 0
+time consuming: 34
+False
+time consuming: 34
+time consuming: 34
+What is the fruit in? banana
+pred: 1
+time consuming: 17
+time consuming: 17
+False
+time consuming: 17
+What is the fruit in? bowl
+Error accessing: https://www.onegoodthingbyjillee.com/best-way-to-store-fruit/
+The read operation timed out
+Error accessing: https://foter.com/how-to-choose-a-fruit-bowl-basket
+HTTP Error 403: Forbidden
+pred: 2
+time consuming: 24
+time consuming: 24
+time consuming: 24
+What is the fruit in? tree
+pred: 3
+time consuming: 23
+time consuming: 23
+False
+time consuming: 23
+What is the fruit in? fruit
+Error accessing: https://www.eatforhealth.gov.au/food-essentials/five-food-groups/fruit
+The read operation timed out
+pred: 4
+time consuming: 18
+time consuming: 18
+time consuming: 18
+What is the fruit in? basket
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 33
+time consuming: 33
+time consuming: 33
+False
+What is the fruit in? groceri store
+pred: 6
+time consuming: 19
+time consuming: 19
+time consuming: 19
+What is the fruit in? produc
+pred: 7
+time consuming: 33
+time consuming: 33
+time consuming: 33
+What is the fruit in? south america
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the fruit in? appl
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 41
+False
+time consuming: 41
+time consuming: 41
+What is the fruit in? kitchen
+Error accessing: https://foter.com/kitchen-fruit-basket
+HTTP Error 403: Forbidden
+ques: 3010
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Name the bike model shown in this picture? honda
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 38
+False
+time consuming: 38
+False
+time consuming: 38
+Name the bike model shown in this picture? harley
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+Name the bike model shown in this picture? bmw
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.bmwusa.com/
+The read operation timed out
+pred: 3
+time consuming: 20
+False
+time consuming: 20
+time consuming: 20
+Name the bike model shown in this picture? harley davidson
+Error accessing: https://cars.usnews.com/powersports/motorcycles/harley-davidson-motorcycles
+The read operation timed out
+Error accessing: https://craigheadcounty.org/app/ferret-white-pqc/2012-harley-davidson-colors-36d1fb
+HTTP Error 404: Not Found
+Error accessing: https://craigheadcounty.org/qvniyem/691124-harley-davidson-frames-uk
+HTTP Error 404: Not Found
+pred: 4
+time consuming: 17
+time consuming: 17
+time consuming: 17
+Name the bike model shown in this picture? schwinn
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://ccm.theartofweb.it/schwinn-bicycle-serial-numbers.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+pred: 5
+time consuming: 34
+time consuming: 34
+False
+time consuming: 34
+Name the bike model shown in this picture? motorcycl
+Error accessing: https://cars.usnews.com/powersports/motorcycles/honda-motorcycles
+The read operation timed out
+Error accessing: https://cars.usnews.com/powersports/motorcycles/yamaha-motorcycles
+The read operation timed out
+Error accessing: https://www.destinationmauivacations.com/blog/w9jnz/41fa28-motorcycle-parts-name-list-with-picture
+HTTP Error 404: Not Found
+Error accessing: None
+unknown url type: 'None'
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Name the bike model shown in this picture? suzuki
+pred: 7
+time consuming: 35
+time consuming: 35
+time consuming: 35
+Name the bike model shown in this picture? kawasaki
+Error accessing: https://cars.usnews.com/powersports/motorcycles/kawasaki-motorcycles
+The read operation timed out
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Name the bike model shown in this picture? motorbik
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 37
+False
+time consuming: 37
+time consuming: 37
+False
+Name the bike model shown in this picture? huffi
+Error accessing: http://swts.com/wp-content/plugins/wp-mail-smtp/vendor/composer/generator-wan-dga2231/ducati-models.html
+HTTP Error 404: Not Found
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://bestock.it/tampa-sidecar.html
+HTTP Error 404: Not Found
+ques: 3011
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What type of sandwich is this? sub
+Error accessing: https://www.thekitchn.com/hoagies-heroes-subs-and-grinders-whats-the-deal-with-these-sandwich-names-222944
+HTTP Error 403: Forbidden
+pred: 1
+time consuming: 33
+time consuming: 33
+time consuming: 33
+What type of sandwich is this? roast beef
+pred: 2
+time consuming: 16
+time consuming: 16
+time consuming: 16
+What type of sandwich is this? reuben
+pred: 3
+time consuming: 37
+time consuming: 37
+time consuming:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|          | 12/1000 [1:29:44<118:45:46, 432.74s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|▏         | 13/1000 [1:36:13<114:59:58, 419.45s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  1%|▏         | 14/1000 [1:43:57<118:36:58, 433.08s/it] 37
+What type of sandwich is this? pastrami
+pred: 4
+time consuming: 18
+time consuming: 18
+False
+time consuming: 18
+False
+What type of sandwich is this? hoagi
+pred: 5
+time consuming: 30
+time consuming: 30
+time consuming: 30
+What type of sandwich is this? chicken
+pred: 6
+time consuming: 25
+time consuming: 25
+time consuming: 25
+What type of sandwich is this? turkey
+pred: 7
+time consuming: 29
+time consuming: 29
+time consuming: 29
+False
+What type of sandwich is this? blt
+pred: 8
+time consuming: 24
+False
+time consuming: 24
+time consuming: 24
+What type of sandwich is this? ham and chees
+pred: 9
+time consuming: 32
+time consuming: 32
+time consuming: 32
+What type of sandwich is this? grill
+ques: 3012
+pred: 0
+time consuming: 17
+False
+time consuming: 17
+time consuming: 17
+False
+What room in the house is this typicaly located? live room
+Error accessing: https://www.apartmenttherapy.com/living-room-vs-family-room-36702271
+HTTP Error 403: Forbidden
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 26
+time consuming: 26
+time consuming: 26
+What room in the house is this typicaly located? bedroom
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.hunker.com/13413449/types-of-rooms-in-homes
+The read operation timed out
+pred: 2
+time consuming: 17
+time consuming: 17
+time consuming: 17
+What room in the house is this typicaly located? kitchen
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.realtor.com/advice/buy/what-is-a-keeping-room/
+HTTP Error 403: Forbidden
+pred: 3
+time consuming: 28
+False
+time consuming: 28
+time consuming: 28
+What room in the house is this typicaly located? live
+Error accessing: https://www.apartmenttherapy.com/living-room-vs-family-room-36702271
+HTTP Error 403: Forbidden
+Error accessing: None
+unknown url type: 'None'
+pred: 4
+time consuming: 17
+time consuming: 17
+time consuming: 17
+What room in the house is this typicaly located? livingroom
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 31
+time consuming: 31
+time consuming: 31
+What room in the house is this typicaly located? offic
+pred: 6
+time consuming: 25
+time consuming: 25
+time consuming: 25
+What room in the house is this typicaly located? dine room
+pred: 7
+time consuming: 20
+time consuming: 20
+time consuming: 20
+What room in the house is this typicaly located? loung
+Error accessing: https://www.apartmenttherapy.com/living-room-vs-family-room-36702271
+HTTP Error 403: Forbidden
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 33
+time consuming: 33
+time consuming: 33
+What room in the house is this typicaly located? bathroom
+Error accessing: https://www.apartmenttherapy.com/en-suite-meaning-260117
+HTTP Error 403: Forbidden
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 20
+False
+time consuming: 20
+time consuming: 20
+False
+What room in the house is this typicaly located? dine
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+ques: 3013
+pred: 0
+time consuming: 39
+time consuming: 39
+time consuming: 39
+What is the object with the round top used for? comput
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the object with the round top used for? work
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 37
+False
+time consuming: 37
+time consuming: 37
+What is the object with the round top used for? type
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the object with the round top used for? keyboard
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://help.figma.com/hc/en-us/articles/360050986854-Adjust-corner-radius-and-smoothing
+HTTP Error 403: Forbidden
+Error accessing: https://help.figma.com/hc/en-us/articles/360040450133-Using-Shape-Tools
+HTTP Error 403: Forbidden
+pred: 4
+time consuming: 35
+time consuming: 35
+time consuming: 35
+What is the object with the round top used for? ear
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the object with the round top used for? code
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.lowes.com/pd/ReliaBilt-White-2-Panel-Round-Top-Hollow-Core-Molded-Composite-Slab-Door-Common-30-in-x-80-in-Actual-30-in-x-80-in/1000221785
+The read operation timed out
+Error accessing: http://edqd.liftcare.it/cura-variable-infill.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://bogk.facepaintinginstitute.it/akuna-python.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+pred: 6
+time consuming: 18
+time consuming: 18
+time consuming: 18
+What is the object with the round top used for? mous
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the object with the round top used for? headphon
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 36
+time consuming: 36
+time consuming: 36
+What is the object with the round top used for? music
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 20
+time consuming: 20
+time consuming: 20
+False
+What is the object with the round top used for? electron
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+ques: 3014
+pred: 0
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+What is this style of architecture? victorian
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 35
+time consuming: 35
+time consuming: 35
+What is this style of architecture? gothic
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.invaluable.com/blog/gothic-architecture/
+HTTP Error 403: Forbidden
+pred: 2
+time consuming: 21
+False
+time consuming: 21
+False
+time consuming: 21
+False
+What is this style of architecture? classic
+pred: 3
+time consuming: 29
+time consuming: 29
+time consuming: 29
+What is this style of architecture? roman
+Error accessing: None
+unknown url type: 'None'
+pred: 4
+time consuming: 28
+time consuming: 28
+False
+time consuming: 28
+What is this style of architecture? greek
+pred: 5
+time consuming: 28
+time consuming: 28
+time consuming: 28
+What is this style of architecture? spanish
+Error accessing: None
+unknown url type: 'None'
+pred: 6
+time consuming: 27
+time consuming: 27
+time consuming: 27
+What is this style of architecture? modern
+Error accessing: None
+unknown url type: 'None'
+pred: 7
+time consuming: 22
+time consuming: 22
+time consuming: 22
+What is this style of architecture? cathedr
+pred: 8
+time consuming: 19
+time consuming: 19
+time consuming: 19
+What is this style of architecture? histor
+pred:  2%|▏         | 15/1000 [1:50:26<114:48:39, 419.61s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  2%|▏         | 16/1000 [1:59:29<124:50:11, 456.72s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+ 9
+time consuming: 40
+time consuming: 40
+False
+time consuming: 40
+What is this style of architecture? stone
+ques: 3015
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the ground made of? concret
+pred: 1
+time consuming: 37
+time consuming: 37
+time consuming: 37
+What is the ground made of? cement
+pred: 2
+time consuming: 20
+time consuming: 20
+time consuming: 20
+What is the ground made of? asphalt
+pred: 3
+time consuming: 34
+time consuming: 34
+time consuming: 34
+What is the ground made of? clay
+Error accessing: https://www.soils.org/about-soils/basics
+HTTP Error 403: Bad Behavior
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the ground made of? stone
+pred: 5
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+What is the ground made of? gravel
+Error accessing: https://www.hunker.com/13406904/gravel-soil-types
+The read operation timed out
+pred: 6
+time consuming: 25
+time consuming: 25
+False
+time consuming: 25
+What is the ground made of? dirt
+Error accessing: https://www.garden.com/garden-articles/what-is-dirt-made-of-anyway/63/
+HTTP Error 403: Forbidden
+Error accessing: https://www.soils.org/about-soils/basics
+HTTP Error 403: Bad Behavior
+pred: 7
+time consuming: 21
+time consuming: 21
+False
+time consuming: 21
+What is the ground made of? pavement
+pred: 8
+time consuming: 30
+time consuming: 30
+time consuming: 30
+What is the ground made of? tar
+pred: 9
+time consuming: 22
+time consuming: 22
+time consuming: 22
+What is the ground made of? sand
+ques: 3016
+pred: 0
+time consuming: 26
+False
+time consuming: 26
+time consuming: 26
+The signs hanging between the buildings in the photo have what language on them? chines
+Error accessing: https://www.norgof.es/hfcpps40/chinese-character-neon-sign-af899b
+<urlopen error [Errno -2] Name or service not known>
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://studiomedicooculisticoventura.it/funny-chinese-people.html
+HTTP Error 404: Not Found
+Error accessing: http://uiol.wedogit.it/when-china-will-collapse.html
+HTTP Error 404: Not Found
+Error accessing: http://korv.edilmad.it/m-language.html
+HTTP Error 404: Not Found
+Error accessing: http://hivw.mywellnesslab.it/pagoda-house.html
+HTTP Error 404: Not Found
+pred: 1
+time consuming: 23
+False
+time consuming: 23
+time consuming: 23
+The signs hanging between the buildings in the photo have what language on them? arab
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://iwbo.sltrading.it/reading-signs-and-symbols-worksheets.html
+HTTP Error 404: Not Found
+Error accessing: http://dkra.maledettilombardi.it/gd-hand-signs.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+pred: 2
+time consuming: 15
+time consuming: 15
+time consuming: 15
+The signs hanging between the buildings in the photo have what language on them? japanes
+Error accessing: http://yubu.antivirus19.it/famous-japanese-paintings.html
+HTTP Error 404: Not Found
+Error accessing: http://www.vm3enviro.com/spadesaca4e/ecba159588.htm
+HTTP Error 404: Not Found
+pred: 3
+time consuming: 39
+time consuming: 39
+False
+time consuming: 39
+The signs hanging between the buildings in the photo have what language on them? french
+Error accessing: http://korv.edilmad.it/m-language.html
+HTTP Error 404: Not Found
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://omarpirovano.it/7-year-old-birthday-photoshoot-ideas.html
+HTTP Error 404: Not Found
+Error accessing: http://ftye.prontoedile.it/picture-on-metal.html
+HTTP Error 404: Not Found
+Error accessing: http://dsbt.wedogit.it/tom-wood-lithograph.html
+HTTP Error 404: Not Found
+Error accessing: http://brpg.facepaintinginstitute.it/vintage-fence.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://rrwr.sltrading.it/signs-of-asmodeus.html
+HTTP Error 404: Not Found
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+The signs hanging between the buildings in the photo have what language on them? english
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://dkra.maledettilombardi.it/gd-hand-signs.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://bdf.facepaintinginstitute.it/bird-on-window-sill-meaning.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://dsbt.wedogit.it/tom-wood-lithograph.html
+HTTP Error 404: Not Found
+Error accessing: http://korv.edilmad.it/m-language.html
+HTTP Error 404: Not Found
+Error accessing: http://foal.les-artistes.it/1960-photos.html
+HTTP Error 404: Not Found
+Error accessing: http://carlofrauvini.it/how-to-tell-age-of-wagner-ware-aluminum.html
+HTTP Error 404: Not Found
+Error accessing: http://ftye.prontoedile.it/picture-on-metal.html
+HTTP Error 404: Not Found
+Error accessing: http://lnaa.clubritmicaaltair.it/4-gang-sign.html
+HTTP Error 404: Not Found
+Error accessing: http://wocn.mywellnesslab.it/4-gang-sign.html
+HTTP Error 404: Not Found
+Error accessing: http://luai.perennitas.it/english-tool-company.html
+HTTP Error 404: Not Found
+pred: 5
+time consuming: 32
+time consuming: 32
+False
+time consuming: 32
+The signs hanging between the buildings in the photo have what language on them? spanish
+Error accessing: http://jvf.wedogit.it/spanish-curtains.html
+HTTP Error 404: Not Found
+Error accessing: http://korv.edilmad.it/m-language.html
+HTTP Error 404: Not Found
+Error accessing: http://dkra.maledettilombardi.it/gd-hand-signs.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://omarpirovano.it/7-year-old-birthday-photoshoot-ideas.html
+HTTP Error 404: Not Found
+Error accessing: http://ftye.prontoedile.it/picture-on-metal.html
+HTTP Error 404: Not Found
+Error accessing: http://jewx.clubritmicaaltair.it/oregon-rocks.html
+HTTP Error 404: Not Found
+Error accessing: http://bck.theartofweb.it/does-discord-notify-when-you-save-a-picture.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://atuo.liftcare.it/home-address-symbol-in-word.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://luai.perennitas.it/english-tool-company.html
+HTTP Error 404: Not Found
+Error accessing: http://studiomedicooculisticoventura.it/funny-chinese-people.html
+HTTP Error 404: Not Found
+Error accessing: http://dlps.billionminds.it/art-math-ia.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+pred: 6
+time consuming: 21
+time consuming: 21
+False
+time consuming: 21
+The signs hanging between the buildings in the photo have what language on them? korean
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://studiomedicooculisticoventura.it/funny-chinese-people.html
+HTTP Error 404: Not Found
+Error accessing: http://zdua.carlofrauvini.it/1960s-photos.html
+HTTP Error 404: Not Found
+Error accessing: http://uteadelfia.it/a-guy-like-you-donghyun.html
+HTTP Error 404: Not Found
+Error accessing:Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  2%|▏         | 17/1000 [2:14:15<159:51:31, 585.44s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  2%|▏         | 18/1000 [2:20:40<143:18:15, 525.35s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  2%|▏         | 19/1000 [2:28:07<136:46:26, 501.92s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+ http://yxlx.bestock.it/south-elgin-news-now.html
+HTTP Error 404: Not Found
+Error accessing: http://jso.edilmad.it/army-eps.html
+HTTP Error 404: Not Found
+Error accessing: http://rxeq.wedogit.it/bicycle-pump-in-japanese.html
+HTTP Error 404: Not Found
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+The signs hanging between the buildings in the photo have what language on them? italian
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://foal.les-artistes.it/1960-photos.html
+HTTP Error 404: Not Found
+Error accessing: http://korv.edilmad.it/m-language.html
+HTTP Error 404: Not Found
+Error accessing: http://ftye.prontoedile.it/picture-on-metal.html
+HTTP Error 404: Not Found
+Error accessing: http://egdx.sltrading.it/self-build-glider.html
+HTTP Error 404: Not Found
+Error accessing: http://dsbt.wedogit.it/tom-wood-lithograph.html
+HTTP Error 404: Not Found
+Error accessing: http://zdua.carlofrauvini.it/1960s-photos.html
+HTTP Error 404: Not Found
+Error accessing: http://pdp.etabetalimone.it/fun-luncheon-names.html
+HTTP Error 404: Not Found
+Error accessing: http://xis.bestock.it/tom-wood-lithograph.html
+HTTP Error 404: Not Found
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+The signs hanging between the buildings in the photo have what language on them? german
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://nnc.mywellnesslab.it/nazi-banner.html
+HTTP Error 404: Not Found
+Error accessing: http://dkih.liftcare.it/german-ww2.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://btsa.maledettilombardi.it/wwii-german-flag.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://eoes.wedogit.it/hanging-out-with-ex-reddit.html
+HTTP Error 404: Not Found
+Error accessing: http://zdua.carlofrauvini.it/1960s-photos.html
+HTTP Error 404: Not Found
+Error accessing: http://ftye.prontoedile.it/picture-on-metal.html
+HTTP Error 404: Not Found
+Error accessing: http://korv.edilmad.it/m-language.html
+HTTP Error 404: Not Found
+Error accessing: http://dbbs.facepaintinginstitute.it/freemason-signs.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://vwpt.geckosys.it/mailbox-germany.html
+HTTP Error 404: Not Found
+Error accessing: http://jewx.clubritmicaaltair.it/oregon-rocks.html
+HTTP Error 404: Not Found
+Error accessing: http://kxaq.ristorantenenzyna.it/wall-of-coins.html
+HTTP Error 404: Not Found
+Error accessing: http://njww.sltrading.it/amigos-mc-washington.html
+HTTP Error 404: Not Found
+Error accessing: http://xxiy.animagolden.it/greta-thunberg-uw-photo.html
+HTTP Error 404: Not Found
+Error accessing: http://luai.perennitas.it/english-tool-company.html
+HTTP Error 404: Not Found
+Error accessing: http://iugi.ditraniarredamenti.it/rust-sign-art.html
+HTTP Error 404: Not Found
+pred: 9
+time consuming: 29
+time consuming: 29
+False
+time consuming: 29
+The signs hanging between the buildings in the photo have what language on them? inuit
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+ques: 3017
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who usually plays with these? child
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 40
+time consuming: 40
+time consuming: 40
+False
+Who usually plays with these? kid
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 16
+time consuming: 16
+time consuming: 16
+Who usually plays with these? children
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 42
+time consuming: 42
+False
+time consuming: 42
+False
+Who usually plays with these? babi
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+Who usually plays with these? mother
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 37
+time consuming: 37
+time consuming: 37
+Who usually plays with these? teddi bear
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+Who usually plays with these? stuf
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 7
+time consuming: 34
+time consuming: 34
+False
+time consuming: 34
+Who usually plays with these? ted
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.linkedin.com/company/ted-conferences
+HTTP Error 999: Request denied
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who usually plays with these? human
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 39
+time consuming: 39
+time consuming: 39
+Who usually plays with these? girl
+ques: 3018
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who is playing? batter
+pred: 1
+time consuming: 40
+time consuming: 40
+time consuming: 40
+Who is playing? player
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 16
+time consuming: 16
+time consuming: 16
+Who is playing? hitter
+pred: 3
+time consuming: 33
+time consuming: 33
+time consuming: 33
+Who is playing? basebal player
+pred: 4
+time consuming: 23
+False
+time consuming: 23
+time consuming: 23
+Who is playing? children
+pred: 5
+time consuming: 34
+time consuming: 34
+time consuming: 34
+Who is playing? kid
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+Who is playing? catcher
+pred: 7
+time consuming: 30
+time consuming: 30
+time consuming: 30
+Who is playing? basebal
+pred: 8
+time consuming: 19
+False
+time consuming: 19
+time consuming: 19
+Who is playing? man
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.manchestereveningnews.co.uk/all-about/manchester-city-fc
+HTTP Error 403: Forbidden
+pred: 9
+time consuming: 36
+time consuming: 36
+time consuming: 36
+False
+Who is playing? umpir
+Error accessing: https://www.mlb.com/official-information/umpires/bios
+The read operation timed out
+ques: 3019
+pred: 0
+time consuming: 15
+False
+time consuming: 15
+False
+time consuming: 15
+What breed is this dog? colli
+pred: 1
+time consuming: 36
+time consuming: 36
+time consuming: 36
+What breed is this dog? beagl
+pred: 2
+time consuming: 15
+False
+time consuming: 15
+time consuming: 15
+What breed is this dog? labrador
+pred: 3
+time consuming: 37
+time consuming: 37
+time consuming: 37
+What breed is this dog? mix
+Error accessing: https://www.whatsmydog.com/
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1091)>
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What breed is this dog? retriev
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 33
+time consuming: 33
+time consuming: 33
+What breed is this dog? lab
+Error accessing: None
+unknown url type: 'None'  2%|▏         | 20/1000 [2:35:17<130:47:34, 480.46s/it]  2%|▏         | 21/1000 [2:41:50<123:31:24, 454.22s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  2%|▏         | 22/1000 [2:58:42<168:48:07, 621.36s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+
+pred: 6
+time consuming: 23
+time consuming: 23
+time consuming: 23
+What breed is this dog? mutt
+Error accessing: None
+unknown url type: 'None'
+pred: 7
+time consuming: 16
+time consuming: 16
+time consuming: 16
+What breed is this dog? german shepherd
+pred: 8
+time consuming: 32
+time consuming: 32
+time consuming: 32
+What breed is this dog? terrier
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What breed is this dog? border colli
+Error accessing: None
+unknown url type: 'None'
+ques: 3020
+pred: 0
+time consuming: 19
+time consuming: 19
+time consuming: 19
+False
+Is the lady in the middle of the older couple happy or scared? happi
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 37
+time consuming: 37
+False
+time consuming: 37
+Is the lady in the middle of the older couple happy or scared? sad
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 16
+time consuming: 16
+time consuming: 16
+Is the lady in the middle of the older couple happy or scared? young
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 38
+time consuming: 38
+time consuming: 38
+Is the lady in the middle of the older couple happy or scared? old
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 4
+time consuming: 21
+time consuming: 21
+time consuming: 21
+Is the lady in the middle of the older couple happy or scared? both
+pred: 5
+time consuming: 34
+time consuming: 34
+False
+time consuming: 34
+Is the lady in the middle of the older couple happy or scared? friend
+pred: 6
+time consuming: 22
+time consuming: 22
+time consuming: 22
+Is the lady in the middle of the older couple happy or scared? famili
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 7
+time consuming: 35
+time consuming: 35
+time consuming: 35
+Is the lady in the middle of the older couple happy or scared? busi
+Error accessing: https://hudsonssmokehouse.com/Enhancement/sexual-health-ytt-older-44B-couple
+HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Temporarily
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.washingtonpost.com/news/inspired-life/wp/2015/02/27/knot-now-the-benefits-of-marrying-in-your-mid-to-late-20s-including-more-sex/
+The read operation timed out
+Error accessing: http://ohzo.hosognato.it/relationship-photos.html
+HTTP Error 404: Not Found
+pred: 8
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+Is the lady in the middle of the older couple happy or scared? older
+pred: 9
+time consuming: 31
+False
+time consuming: 31
+time consuming: 31
+Is the lady in the middle of the older couple happy or scared? mad
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://opentextbc.ca/introductiontosociology2ndedition/chapter/chapter-13-aging-and-the-elderly/
+<urlopen error timed out>
+ques: 3021
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the spanish word for a person in this age group? kid
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 35
+False
+time consuming: 35
+time consuming: 35
+What is the spanish word for a person in this age group? babi
+pred: 2
+time consuming: 20
+time consuming: 20
+time consuming: 20
+What is the spanish word for a person in this age group? toddler
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 37
+time consuming: 37
+time consuming: 37
+What is the spanish word for a person in this age group? puppi
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 4
+time consuming: 15
+False
+time consuming: 15
+time consuming: 15
+False
+What is the spanish word for a person in this age group? sleepi
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 40
+time consuming: 40
+time consuming: 40
+What is the spanish word for a person in this age group? nurs
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://enfh.conilcuorealcentro.it/er-nurse-biography.html
+HTTP Error 503: Service Unavailable
+503 Error: service is currently unavailable. Program will exit.
+Error accessing: http://sgty.sltrading.it/cool-nurse-nicknames.html
+HTTP Error 404: Not Found
+Error accessing: https://www.monster.com/job-openings/director-of-nursing-medical-surgical-houston-tx--c4b1fc2f-c17c-437d-b31d-0d60724968fa
+HTTP Error 404: Not Found
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the spanish word for a person in this age group? earli
+pred: 7
+time consuming: 36
+time consuming: 36
+time consuming: 36
+What is the spanish word for a person in this age group? mari
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What is the spanish word for a person in this age group? rabi
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 35
+time consuming: 35
+time consuming: 35
+What is the spanish word for a person in this age group? bed
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: http://ilik.csiarezzo.it/medieval-spanish-names.html
+HTTP Error 404: Not Found
+Error accessing: http://ilik.csiarezzo.it/medieval-spanish-names.html
+HTTP Error 404: Not Found
+ques: 3022
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What sort of angels might these men be? polic
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 16
+False
+time consuming: 16
+time consuming: 16
+What sort of angels might these men be? hell angel
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 30
+time consuming: 30
+time consuming: 30
+What sort of angels might these men be? cowboy
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What sort of angels might these men be? angel
+Error accessing: None
+unknown url type: 'None'
+pred: 4
+time consuming: 39
+time consuming: 39
+time consuming: 39
+What sort of angels might these men be? militari
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What sort of angels might these men be? air forc
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  2%|▏         | 23/1000 [3:07:52<162:50:11, 600.01s/it]  2%|▏         | 24/1000 [3:13:56<143:28:07, 529.19s/it]  2%|▎         | 25/1000 [3:20:51<134:03:45, 495.00s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  3%|▎         | 26/1000 [3:27:45<127:20:26, 470.66s/it]
+Error accessing: None
+unknown url type: 'None'
+pred: 6
+time consuming: 40
+False
+time consuming: 40
+time consuming: 40
+What sort of angels might these men be? biker
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://www.washingtonpost.com/news/morning-mix/wp/2015/05/18/how-the-bandidos-became-americas-most-feared-biker-gang/
+The read operation timed out
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What sort of angels might these men be? motorcycl
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 8
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What sort of angels might these men be? airforc
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 9
+time consuming: 38
+time consuming: 38
+time consuming: 38
+What sort of angels might these men be? clown
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+ques: 3023
+pred: 0
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+Is it day or night? day
+pred: 1
+time consuming: 27
+time consuming: 27
+time consuming: 27
+Is it day or night? night
+Error accessing: http://www.primaryhomeworkhelp.co.uk/time/index.html
+Remote end closed connection without response
+pred: 2
+time consuming: 21
+time consuming: 21
+time consuming: 21
+Is it day or night? daytim
+pred: 3
+time consuming: 32
+False
+time consuming: 32
+time consuming: 32
+False
+Is it day or night? day time
+pred: 4
+time consuming: 27
+time consuming: 27
+time consuming: 27
+Is it day or night? morn
+pred: 5
+time consuming: 27
+False
+time consuming: 27
+time consuming: 27
+Is it day or night? even
+pred: 6
+time consuming: 30
+time consuming: 30
+time consuming: 30
+Is it day or night? nighttim
+pred: 7
+time consuming: 19
+time consuming: 19
+time consuming: 19
+Is it day or night? afternoon
+pred: 8
+time consuming: 40
+time consuming: 40
+False
+time consuming: 40
+Is it day or night? sunris
+pred: 9
+time consuming: 17
+time consuming: 17
+time consuming: 17
+Is it day or night? noon
+ques: 3024
+pred: 0
+time consuming: 42
+time consuming: 42
+time consuming: 42
+False
+What has happened to this food? eaten
+pred: 1
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What has happened to this food? sold
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 38
+False
+time consuming: 38
+False
+time consuming: 38
+What has happened to this food? bitten
+pred: 3
+time consuming: 17
+time consuming: 17
+False
+time consuming: 17
+What has happened to this food? eat it
+Error accessing: https://www.breastcancer.org/tips/nutrition/healthy_eat/what_happens
+The read operation timed out
+Error accessing: https://www.washingtonpost.com/lifestyle/2020/09/22/autistic-girl-spaghettios-every-meal-food-shortage/
+The read operation timed out
+pred: 4
+time consuming: 22
+time consuming: 22
+time consuming: 22
+What has happened to this food? crash
+Error accessing: None
+unknown url type: 'None'
+pred: 5
+time consuming: 28
+False
+time consuming: 28
+time consuming: 28
+What has happened to this food? eat
+pred: 6
+time consuming: 18
+time consuming: 18
+False
+time consuming: 18
+What has happened to this food? chew
+Error accessing: https://health.usnews.com/health-news/blogs/eat-run/2015/03/10/5-reasons-you-should-chew-your-food
+The read operation timed out
+pred: 7
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+False
+What has happened to this food? broke
+Error accessing: https://www.charlotteobserver.com/news/coronavirus/article242323166.html
+The read operation timed out
+pred: 8
+time consuming: 31
+time consuming: 31
+time consuming: 31
+What has happened to this food? glaze
+pred: 9
+time consuming: 18
+False
+time consuming: 18
+time consuming: 18
+What has happened to this food? ferment
+ques: 3025
+pred: 0
+time consuming: 37
+time consuming: 37
+time consuming: 37
+What skateboard move is this? olli
+Error accessing: https://www.goskate.com/how-to-ollie/
+The read operation timed out
+pred: 1
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What skateboard move is this? jump
+Error accessing: https://www.masterclass.com/articles/how-to-do-an-ollie
+HTTP Error 403: Forbidden
+pred: 2
+time consuming: 22
+time consuming: 22
+time consuming: 22
+What skateboard move is this? grind
+Error accessing: https://riders.co/en/skate/grinds
+IncompleteRead(32569 bytes read, 338966 more expected)
+Error accessing: https://www.masterclass.com/articles/guide-to-skateboard-grind-tricks
+HTTP Error 403: Forbidden
+pred: 3
+time consuming: 35
+time consuming: 35
+time consuming: 35
+What skateboard move is this? kickflip
+Error accessing: https://www.masterclass.com/articles/how-to-do-a-kickflip
+HTTP Error 403: Forbidden
+pred: 4
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+What skateboard move is this? kick flip
+Error accessing: https://www.masterclass.com/articles/how-to-do-a-kickflip
+HTTP Error 403: Forbidden
+Error accessing: https://riders.co/en/skate/flips
+IncompleteRead(48953 bytes read, 387123 more expected)
+pred: 5
+time consuming: 26
+time consuming: 26
+time consuming: 26
+What skateboard move is this? flip
+Error accessing: https://riders.co/en/skate/flips
+IncompleteRead(32569 bytes read, 403507 more expected)
+pred: 6
+time consuming: 26
+time consuming: 26
+time consuming: 26
+What skateboard move is this? ride rail
+Error accessing: None
+unknown url type: 'None'
+Error accessing: https://riders.co/en/skate/grinds
+IncompleteRead(32569 bytes read, 338966 more expected)
+pred: 7
+time consuming: 24
+time consuming: 24
+time consuming: 24
+What skateboard move is this? skateboard
+Error accessing: https://www.masterclass.com/articles/skateboard-tricks-for-beginners
+HTTP Error 403: Forbidden
+Error accessing: https://www.masterclass.com/articles/how-to-manual-on-a-skateboard
+HTTP Error 403: Forbidden
+pred: 8
+time consuming: 29
+time consuming: 29
+time consuming: 29
+What skateboard move is this? 180
+Error accessing: https://www.masterclass.com/articles/how-to-do-a-frontside-180-on-a-skateboard
+HTTP Error 403: Forbidden
+Error accessing: https://riders.co/en/skate/basics/Frontside180
+IncompleteRead(48953 bytes read, 527943 more expected)
+pred: 9
+time consuming: 17
+False
+time consuming: 17
+time consuming: 17
+What skateboard move is this? halfpip
+Error accessing: https://riders.co/en/skate/ramp
+IncompleteRead(48953 bytes read, 326873 more expected)
+Error accessing: https://www.masterclass.com/articles/understanding-vert-skating
+HTTP Error 403: Forbidden
+ques: 3026
+pred: 0
+time consuming: 39
+time consuming: 39
+time consuming: 39
+What are the tires made of? rubber
+Error accessing: https://thetiredigest.michelin.com/an-unknown-object-the-tire-materials
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1091)>
+pred: 1
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What are the tires made of? leather
+pred: 2
+time consuming: 37
+time consuming: 37
+time consuming: 37
+What are the tires made of? glass
+Error accessing: https://www.allstate.com/tr/car-insurance/prevent-flat-tires.aspx
+The read operation timed out
+pred: 3
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What are the tires made of? plastic
+Error accessing: https://thetiredigest.michelin.com/an-unknown-object-the-tire-materials
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1091)>
+pred: 4
+time consuming: 40
+False
+time consuming: 40
+time consuming: 40
+What are the tires made of? black
+pred: 5
+time consuming: 15
+False
+time consuming: 15
+False
+time consuming: 15
+What are the tires made of? wood
+pred: 6
+time consuming: 42
+time consuming: 42
+time consuming: 42
+What are the tires made of? polyurethanSome characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  3%|▎         | 27/1000 [3:35:05<124:43:00, 461.44s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  3%|▎         | 28/1000 [3:43:06<126:09:32, 467.26s/it]  3%|▎         | 29/1000 [3:49:55<121:19:55, 449.84s/it]Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+  3%|▎         | 29/1000 [3:52:20<129:39:42, 480.72s/it]
+
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What are the tires made of? metal
+pred: 8
+time consuming: 40
+time consuming: 40
+False
+time consuming: 40
+What are the tires made of? iron
+pred: 9
+time consuming: 15
+False
+time consuming: 15
+time consuming: 15
+What are the tires made of? clay
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+ques: 3027
+pred: 0
+time consuming: 16
+False
+time consuming: 16
+time consuming: 16
+What wild animal did this animal evolve from? lion
+pred: 1
+time consuming: 34
+time consuming: 34
+time consuming: 34
+What wild animal did this animal evolve from? wolf
+pred: 2
+time consuming: 15
+time consuming: 15
+time consuming: 15
+False
+What wild animal did this animal evolve from? tiger
+pred: 3
+time consuming: 38
+time consuming: 38
+time consuming: 38
+What wild animal did this animal evolve from? dog
+pred: 4
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What wild animal did this animal evolve from? cheetah
+pred: 5
+time consuming: 37
+False
+time consuming: 37
+time consuming: 37
+What wild animal did this animal evolve from? fox
+Error accessing: https://www.wildlifeonline.me.uk/animals/article/red-fox-evolution-early-distribution
+HTTP Error 403: Forbidden
+pred: 6
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What wild animal did this animal evolve from? swan
+Error accessing: https://www.allaboutbirds.org/guide/Mute_Swan/lifehistory
+The read operation timed out
+Error accessing: None
+unknown url type: 'None'
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What wild animal did this animal evolve from? dalmatian
+pred: 8
+time consuming: 23
+time consuming: 23
+time consuming: 23
+What wild animal did this animal evolve from? wolv
+pred: 9
+time consuming: 16
+time consuming: 16
+False
+time consuming: 16
+What wild animal did this animal evolve from? cow
+Error accessing: https://evolution.berkeley.edu/evolibrary/news/130401_beef
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1091)>
+ques: 3028
+pred: 0
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What other types of pizza could i have? suprem
+Error accessing: https://www.thekitchn.com/these-are-the-5-most-loved-pizza-toppings-ever-255458
+HTTP Error 403: Forbidden
+pred: 1
+time consuming: 15
+False
+time consuming: 15
+time consuming: 15
+What other types of pizza could i have? pepperoni
+pred: 2
+time consuming: 36
+time consuming: 36
+time consuming: 36
+What other types of pizza could i have? veggi
+pred: 3
+time consuming: 21
+time consuming: 21
+time consuming: 21
+False
+What other types of pizza could i have? veget
+pred: 4
+time consuming: 34
+time consuming: 34
+time consuming: 34
+What other types of pizza could i have? chees
+pred: 5
+time consuming: 22
+time consuming: 22
+time consuming: 22
+What other types of pizza could i have? pepper
+Error accessing: https://www.pizzarecipe.org/different-types-of-pizza/
+<urlopen error [Errno 104] Connection reset by peer>
+pred: 6
+time consuming: 27
+time consuming: 27
+time consuming: 27
+What other types of pizza could i have? italian
+Error accessing: https://www.goaheadtours.com/travel-blog/articles/italian-pizza-styles
+HTTP Error 503: Service Temporarily Unavailable
+503 Error: service is currently unavailable. Program will exit.
+pred: 7
+time consuming: 15
+time consuming: 15
+time consuming: 15
+What other types of pizza could i have? margarita
+pred: 8
+time consuming: 39
+time consuming: 39
+False
+time consuming: 39
+False
+What other types of pizza could i have? spinach
+pred: 9
+time consuming: 15
+time consuming: 15
+False
+time consuming: 15
+What other types of pizza could i have? vegetarian
+ques: 3029
+pred: 0
+time consuming: 35
+time consuming: 35
+time consuming: 35
+Why is this lady using an umbrella if it's sunny? shade
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 1
+time consuming: 17
+time consuming: 17
+time consuming: 17
+Why is this lady using an umbrella if it's sunny? sunni
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+Error accessing: None
+unknown url type: 'None'
+pred: 2
+time consuming: 21
+time consuming: 21
+False
+time consuming: 21
+Why is this lady using an umbrella if it's sunny? sun protect
+Error accessing: None
+unknown url type: 'None'
+pred: 3
+time consuming: 31
+time consuming: 31
+Error accessing: http://www.google.com/search?nl=en&q=Why+is+this+lady+using+an+umbrella+if+it%27s+sunny%3F+block+sun&start=10&num=10&tbs=
+HTTP Error 429: Too Many Requests

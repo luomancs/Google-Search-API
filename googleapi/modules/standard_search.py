@@ -52,7 +52,7 @@ class GoogleResult(object):
 
 
 # PUBLIC
-def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_period=False, sort_by_date=False, first_page=0):
+def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_period=False, sort_by_date=False, first_page=0, time_dur=0):
     """Returns a list of GoogleResult.
 
     Args:
@@ -68,15 +68,25 @@ def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_per
     results = []
     for i in range(first_page, first_page + pages):
         url = _get_search_url(query, i, lang=lang, area=area, ncr=ncr, time_period=time_period, sort_by_date=sort_by_date)
-        html = get_html(url)
+        html = get_html(url, time_dur=time_dur)
 
         if html:
             soup = BeautifulSoup(html, "html.parser")
             divs = soup.findAll("div", attrs={"class": "g"})
+            flag = True
+
+            if len(divs) != 0:
+                flag = False
+                print(flag)
+
+            else:
+                divs.extend(soup.findAll("div", attrs={"class": "ZINbbc xpd O9g5cc uUPGi"}))
+                for div in divs:
+                    if div.findAll("div", attrs={"class": "kCrYT"}) == []:
+                        divs.remove(div)
 
             results_div = soup.find("div", attrs={"id": "resultStats"})
             number_of_results = _get_number_of_results(results_div)
-
             j = 0
             for li in divs:
                 res = GoogleResult()
@@ -92,7 +102,7 @@ def search(query, pages=1, lang='en', area='com', ncr=False, void=True, time_per
                 res.cached = _get_cached(li)
                 res.number_of_results = number_of_results
                 res.is_pdf = _get_is_pdf(li)
-                
+
                 if void is True:
                     if res.description is None:
                         continue
@@ -189,8 +199,14 @@ def _get_description(li):
     TODO: There are some text encoding problems to resolve."""
 
     sdiv = li.find("div", attrs={"class": "IsZvec"})
+    if not sdiv:
+        sdiv = li.find("div", attrs={"class": "BNeawe s3v9rd AP7Wnd"})
     if sdiv:
         stspan = sdiv.find("span", attrs={"class": "aCOpRe"})
+        if not stspan:
+            for span in sdiv.select('script'):
+                span.extract()
+            stspan = sdiv
         if stspan is not None:
             # return stspan.text.encode("utf-8").strip()
             return stspan.text.strip()
